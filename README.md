@@ -2,7 +2,7 @@
 
 Desenvolvedor Backend em formação, focado em Java e Spring Boot.
 
-Atualmente estudando desenvolvimento de APIs REST, banco de dados e boas práticas de backend, buscando minha primeira oportunidade na área de tecnologia.
+Formado em curso técnico em Desenvolvimento de Sistemas, e atualmente cursando Analise e Desenvolvimento de Sistemas, buscando minha primeira oportunidade na área de tecnologia.
 
 ---
 
@@ -16,16 +16,6 @@ Atualmente estudando desenvolvimento de APIs REST, banco de dados e boas prátic
 - Maven
 - Postman
 - Git & GitHub
-
----
-
-## 📚 Atualmente estudando
-
-- APIs REST
-- Arquitetura Backend
-- Spring Security
-- JWT
-- Boas práticas de desenvolvimento
 
 ---
 
@@ -60,5 +50,5 @@ Com foco em crescimento profissional e evolução constante na área de tecnolog
 
 ## 📫 Contato
 
-- LinkedIn: SEU_LINKEDIN
-- Email: SEU_EMAIL
+- LinkedIn: Rafael Jaques
+- Email: rafaeljaques300@gmail.com
